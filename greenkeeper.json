@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "src/html/get-index/package.json"
+      ]
+    }
+  }
+}
