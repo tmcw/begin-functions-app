@@ -1,5 +1,7 @@
 # Hey, it's a Begin app! ✨
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/begin-functions-app.svg)](https://greenkeeper.io/)
+
 
 ## Getting started
 - First, initialize the repo + route deps: `npm i && npx hydrate`
